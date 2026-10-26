@@ -63,3 +63,13 @@ This is an educational simulation and not a medical device. It does not replace 
 ## Author
 
 **Achraf BRIKI** · [LinkedIn](https://www.linkedin.com/in/achrafbriki/) · [Portfolio](https://achrafbriki.com)
+
+## Delivery profile
+
+**Status:** Prototype  
+**Demo:** Unity/VR build and recorded media; no public hosted demo yet.  
+**Prerequisites:** Unity3D, compatible VR headset and Android SDK when packaging for Android.  
+**Validation:** Scene navigation, 360-degree media, object interaction, frame rate and comfort.  
+**Performance plan:** Measure frame rate, loading time, memory, controller latency and headset comfort.  
+**Roadmap:** Instructor scenarios, accessibility, content review by medical experts and automated Unity tests.  
+**Safety:** Educational simulation only; not a medical device or clinical replacement.
