@@ -1,3 +1,8 @@
+
+
+## About
+
+Immersive medical-learning and simulation experience that helps trainees practise anatomy, hospital navigation and medical scenarios in a safe virtual environment.
 # VR Medical Learning & Training
 
 Virtual-reality learning experience for medical trainees. The project provides an immersive environment where students can learn anatomy, practise procedures and explore a simulated hospital without putting real patients at risk.
