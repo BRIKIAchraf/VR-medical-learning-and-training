@@ -1,44 +1,60 @@
-# VR-medical-learning-and-training
+# VR Medical Learning & Training
 
+Virtual-reality learning experience for medical trainees. The project provides an immersive environment where students can learn anatomy, practise procedures and explore a simulated hospital without putting real patients at risk.
 
-> Medical Trainees can learn life-saving techniques and skills using this simulation without risking any patient's life. As VR offers a realistic scenario, students could respond to high pressure situations and learn how to deal with it. 
+## Learning objectives
 
+- provide safe repetition of high-pressure medical scenarios;
+- combine visual explanation with interactive exploration;
+- support 360-degree learning content;
+- introduce a structured walkthrough and training flow;
+- make medical tools and hospital objects explorable in context.
 
-> As a team lead, Implemented and Scripted user controls, interactive medical tools used in training. Designed UI for main menu, selection menu and switching between these menus. Implemented a technique to view a certain video in 360 degrees for VR. Also, Designed a hospital environment for simulation.
+## User experience
 
-![Screenshot](ss3.png)
+### Learning mode
 
+Students can inspect body parts through immersive 360-degree content and guided visual material.
 
-# Menu
+### Training mode
 
-> Simple UI menu for user to start and exit the simulation. Next menu includes two different approaches, the learning approach where users can learn about a particular body part with 360 immersive experience and next the training approach allowing user to interact with the patient and have a walkthrough of the hospital 
+Students can explore a hospital environment, interact with objects and practise a simulated patient walkthrough.
 
-![alt-text](gifs/menu.gif)
+### Navigation
 
-# Learning : functioning of Different body parts 
+The project includes a main menu, selection menu and transitions between learning and training experiences.
 
-![alt-text](gifs/view1.gif)
+## Technology stack
 
-![alt-text](gifs/view2.gif)
+- **Unity3D** for the simulation and interaction runtime;
+- **C#** for user controls and gameplay logic;
+- **Blender** for 3D assets and environment work;
+- **Android SDK** for mobile/VR packaging;
+- VR headset and 360-degree media for immersive interaction.
 
-![alt-text](gifs/view3.gif)
+## Contributions
 
-![alt-text](gifs/view4.gif)
+The project includes work on:
 
-![alt-text](gifs/view5.gif)
+- user controls;
+- interactive medical tools;
+- menu and selection UI;
+- hospital environment design;
+- 360-degree video viewing;
+- learning/training navigation.
 
-![alt-text](gifs/view6.gif)
+## Status and safety
 
-# Training and Walkthrough
+This is an educational simulation and not a medical device. It does not replace clinical training, supervision or validated medical instruction. Any future clinical use would require expert review, educational validation, accessibility testing and safety assessment.
 
-> Users are able to interact with the hospital objects in the surrounding, can have a walkthrough of the hospital in 360 view by mounting a VR and can interact with the patients 
+## Roadmap
 
-![alt-text](gifs/train.jpg)
+- add hand-gesture interaction for VR controllers;
+- improve accessibility and onboarding;
+- add scenario scoring and instructor review;
+- create a content authoring workflow for new training modules;
+- test performance across target headsets.
 
-# Next Step
+## Author
 
-> Including hand gesture controls in VR connectivity allowing user to interact with the medical tool and perform different surgeries on patient. Also allowing user to give appropiate medication to the patients.
-
-# Technologies
-
-> C#, Unity3D, Blender, andriod sdk
+**Achraf BRIKI** · [LinkedIn](https://www.linkedin.com/in/achrafbriki/) · [Portfolio](https://achrafbriki.com)
